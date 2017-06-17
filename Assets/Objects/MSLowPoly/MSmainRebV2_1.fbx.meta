@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: bcecb825abaa6fd448443391dc5c6132
+timeCreated: 1497702842
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackLabel.000_Plane.030
+    100002: Camera
+    100004: CardioLightRET_LP_Plane.027
+    100006: D_Ring.000_Plane.001_Plane.004
+    100008: DIN_SC.all.001_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.000
+    100010: DIN_SC.D-ring.V2_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.007
+    100012: DownCaseRET.001_Plane.029
+    100014: FaceLabebl_MS.010.000.000.FullAssembly_-_MS.010.036.001.FaceLab
+    100016: FlashLight.000_Cylinder.015
+    100018: KeyBoardRET.000_Plane.028
+    100020: Lamp
+    100022: //RootNode
+    100024: PinsOut.000_MS.010.000.000.FullAssembly_-_024.023.003.H2105B01_
+    100026: Screen_MS.010.000.000.FullAssembly_-_KWH018TG02-F01-1.000_Scree
+    100028: ScreenResist.000_MS.010.000.000.FullAssembly_-_MS.010.001.002.C
+    100030: Sensor_filters.000_Cylinder.017
+    400000: BackLabel.000_Plane.030
+    400002: Camera
+    400004: CardioLightRET_LP_Plane.027
+    400006: D_Ring.000_Plane.001_Plane.004
+    400008: DIN_SC.all.001_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.000
+    400010: DIN_SC.D-ring.V2_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.007
+    400012: DownCaseRET.001_Plane.029
+    400014: FaceLabebl_MS.010.000.000.FullAssembly_-_MS.010.036.001.FaceLab
+    400016: FlashLight.000_Cylinder.015
+    400018: KeyBoardRET.000_Plane.028
+    400020: Lamp
+    400022: //RootNode
+    400024: PinsOut.000_MS.010.000.000.FullAssembly_-_024.023.003.H2105B01_
+    400026: Screen_MS.010.000.000.FullAssembly_-_KWH018TG02-F01-1.000_Scree
+    400028: ScreenResist.000_MS.010.000.000.FullAssembly_-_MS.010.001.002.C
+    400030: Sensor_filters.000_Cylinder.017
+    2300000: BackLabel.000_Plane.030
+    2300002: CardioLightRET_LP_Plane.027
+    2300004: D_Ring.000_Plane.001_Plane.004
+    2300006: DIN_SC.all.001_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.000
+    2300008: DIN_SC.D-ring.V2_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.007
+    2300010: DownCaseRET.001_Plane.029
+    2300012: FaceLabebl_MS.010.000.000.FullAssembly_-_MS.010.036.001.FaceLab
+    2300014: FlashLight.000_Cylinder.015
+    2300016: KeyBoardRET.000_Plane.028
+    2300018: PinsOut.000_MS.010.000.000.FullAssembly_-_024.023.003.H2105B01_
+    2300020: Screen_MS.010.000.000.FullAssembly_-_KWH018TG02-F01-1.000_Scree
+    2300022: ScreenResist.000_MS.010.000.000.FullAssembly_-_MS.010.001.002.C
+    2300024: Sensor_filters.000_Cylinder.017
+    3300000: BackLabel.000_Plane.030
+    3300002: CardioLightRET_LP_Plane.027
+    3300004: D_Ring.000_Plane.001_Plane.004
+    3300006: DIN_SC.all.001_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.000
+    3300008: DIN_SC.D-ring.V2_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.007
+    3300010: DownCaseRET.001_Plane.029
+    3300012: FaceLabebl_MS.010.000.000.FullAssembly_-_MS.010.036.001.FaceLab
+    3300014: FlashLight.000_Cylinder.015
+    3300016: KeyBoardRET.000_Plane.028
+    3300018: PinsOut.000_MS.010.000.000.FullAssembly_-_024.023.003.H2105B01_
+    3300020: Screen_MS.010.000.000.FullAssembly_-_KWH018TG02-F01-1.000_Scree
+    3300022: ScreenResist.000_MS.010.000.000.FullAssembly_-_MS.010.001.002.C
+    3300024: Sensor_filters.000_Cylinder.017
+    4300000: Screen_MS.010.000.000.FullAssembly_-_KWH018TG02-F01-1.000_Scree
+    4300002: FaceLabebl_MS.010.000.000.FullAssembly_-_MS.010.036.001.FaceLab
+    4300004: ScreenResist.000_MS.010.000.000.FullAssembly_-_MS.010.001.002.C
+    4300006: PinsOut.000_MS.010.000.000.FullAssembly_-_024.023.003.H2105B01_
+    4300008: DIN_SC.D-ring.V2_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.007
+    4300010: DIN_SC.all.001_MS.010.000.000.FullAssembly_-_DIN7985_M2-1.000
+    4300012: KeyBoardRET.000_Plane.028
+    4300014: FlashLight.000_Cylinder.015
+    4300016: Sensor_filters.000_Cylinder.017
+    4300018: D_Ring.000_Plane.001_Plane.004
+    4300020: BackLabel.000_Plane.030
+    4300022: CardioLightRET_LP_Plane.027
+    4300024: DownCaseRET.001_Plane.029
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
